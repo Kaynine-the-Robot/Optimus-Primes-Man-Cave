@@ -1,0 +1,19 @@
+Title: Higher
+
+Story:
+Svetlana (Lana) is a little girl collecting ballons to get higher and higher up the mountain
+all the way to heaven to find her mother.
+
+
+Game Mechanincs:
+jump, move, checkpoints, collecting balloons.
+
+
+Objects:
+hallucinations (enemies)
+balloons (collectibles)
+player
+scene (platforms, spikes?)
+
+
+Levels/puzzles:
